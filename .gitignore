@@ -1,0 +1,7 @@
+.env
+*.log
+*.pid
+*.safetensors
+*.incomplete
+__pycache__/
+
